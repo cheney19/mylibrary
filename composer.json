@@ -1,0 +1,20 @@
+{
+    "name": "hellocheney/mylibrary",
+    "description": "a test library packages",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "cheney",
+            "email": "upan2009@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Silverfox\\Rose\\":"Silverfox/Rose",
+            "Silverfox\\Lily\\":"Silverfox/Lily"
+        }
+    }
+}
