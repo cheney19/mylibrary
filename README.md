@@ -1,2 +1,0 @@
-# mylibrary
-a test library
