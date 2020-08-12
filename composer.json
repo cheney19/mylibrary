@@ -1,6 +1,6 @@
 {
     "name": "hellocheney/mylibrary",
-    "description": "a test library packages",
+    "description": "a test library package",
     "type": "library",
     "license": "mit",
     "authors": [
@@ -10,11 +10,5 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
-    "autoload":{
-        "psr-4":{
-            "Silverfox\\Rose\\":"Silverfox/Rose",
-            "Silverfox\\Lily\\":"Silverfox/Lily"
-        }
-    }
+    "require": {}
 }

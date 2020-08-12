@@ -1,5 +1,5 @@
 <?php
-namespace Silverfox\Rose;
+namespace Silverfox;
 
 class Rose
 {
