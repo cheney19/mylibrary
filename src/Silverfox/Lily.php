@@ -1,5 +1,5 @@
 <?php
-namespace Silverfox\Lily;
+namespace Silverfox;
 
 class Lily
 {

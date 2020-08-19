@@ -15,8 +15,7 @@
     },
     "autoload":{
         "psr-4":{
-            "Silverfox\\Rose\\":"src/Silverfox/Rose",
-            "Silverfox\\Lily\\":"src/Silverfox/Lily"
+            "Silverfox\\":"src/Silverfox"
         }
     }
 }
